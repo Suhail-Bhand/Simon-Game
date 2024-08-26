@@ -9,6 +9,7 @@ Increasing Difficulty: As the game progresses, the sequences become longer and m
 <li>CSS3: For styling the game interface.</li>
 <li>JavaScript: For implementing game logic, user interactions, and sequence generation.</li>
 </ul>
+
 # How to Play:
 <ul>
 <li>The game starts with a single color sequence.</li>

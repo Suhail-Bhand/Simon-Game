@@ -4,9 +4,11 @@ The Simon Game is a classic memory game that challenges players to remember and 
 <bold> Interactive Gameplay :</bold>  The game features a series of buttons that light up in various colors. Players must replicate the sequence by clicking the buttons in the correct order.
 Increasing Difficulty: As the game progresses, the sequences become longer and more complex, testing the player's memory and attention.
 # Technologies Used:
-HTML5: For structuring the game layout.
-CSS3: For styling the game interface.
-JavaScript: For implementing game logic, user interactions, and sequence generation.
+<ul>
+<li>HTML5: For structuring the game layout.</li>
+<li>CSS3: For styling the game interface.</li>
+<li>JavaScript: For implementing game logic, user interactions, and sequence generation.</li>
+</ul>
 # How to Play:
 <ul>
 <li>The game starts with a single color sequence.</li>

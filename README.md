@@ -8,8 +8,10 @@ HTML5: For structuring the game layout.
 CSS3: For styling the game interface.
 JavaScript: For implementing game logic, user interactions, and sequence generation.
 # How to Play:
-The game starts with a single color sequence.
-Watch the sequence carefully as the colors light up.
-Repeat the sequence by clicking the buttons in the correct order.
-With each correct attempt, the sequence grows longer.
-The game continues until you make a mistake.
+<ul>
+<li>The game starts with a single color sequence.</li>
+<li>Watch the sequence carefully as the colors light up.</li>
+<li>Repeat the sequence by clicking the buttons in the correct order.</li>
+<li>With each correct attempt, the sequence grows longer.</li>
+<li>The game continues until you make a mistake.</li>
+</ul>

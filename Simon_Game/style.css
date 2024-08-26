@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+
+.btn{
+    height: 160px;
+    width: 160px;
+    border-radius: 20%;
+    border: 8px solid black;
+    margin: 2rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.pinkish{
+    background-color: #d95980;
+}
+
+.skyish{
+    background-color: #63acc0;
+}
+
+.orangeish{
+    background-color: #f99b45;
+}
+
+.purplish{
+    background-color: #819ff9;
+}
+
+.flash{
+    background-color: #fff;
+}
+
+.usrflash{
+    background-color: green;
+}
